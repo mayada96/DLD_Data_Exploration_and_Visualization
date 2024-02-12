@@ -22,11 +22,11 @@ The scrape_dld_transaction_data_to_csv.py script is designed to:
 ## Usage
 
 - Clone the repository to your local machine:
-git clone https://github.com/your-username/Dubai_Real_Estate_Analysis.git
+`git clone https://github.com/your-username/Dubai_Real_Estate_Analysis.git`
 - Install the required Python libraries:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 - Run the `scrape_dld_transaction_data_to_csv.py` script:
-python scrape_dld_transaction_data_to_csv.py
+`python scrape_dld_transaction_data_to_csv.py`
 - Once the script completes execution, you will find the extracted data stored in `dld_transactions.csv`.
 
 ## Power BI Report
