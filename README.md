@@ -12,6 +12,13 @@ The scrape_dld_transaction_data_to_csv.py script is designed to:
 - Perform data cleaning and transformation to create a structured DataFrame.
 - Export the processed data to a CSV file for further analysis.
 
+## Project Files
+
+`scrape_dld_transaction_data_to_csv.py` -  Python script implements an automated method for fetching public real estate transaction data from the Dubai Land Department (DLD) website.
+`DLD_Data_Report.pbix` - Power BI report provides interactive visualizations and analysis of the extracted real estate transaction data.
+`dld_transactions.csv` - CSV file where the data is stored.
+`README.md` - This document.
+
 ## Usage
 
 - Clone the repository to your local machine:
