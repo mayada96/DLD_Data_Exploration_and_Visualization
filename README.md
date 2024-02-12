@@ -44,6 +44,6 @@ The Dubai Real Estate Analysis project offers a comprehensive solution for autom
 
 Through the scrape_dld_transaction_data_to_csv.py script, users can easily fetch transaction data for a specified date range, ensuring the collection of up-to-date information. The extracted data is then processed, cleaned, and stored in a structured format, ready for further analysis.
 
-The Power BI report Dubai_Real_Estate_Report.pbix provides an intuitive interface for exploring the extracted data visually. Users can interact with various visualizations, including drill-through maps, bar charts, clustered column charts, and line charts, to gain insights into key metrics such as transaction value, property size, price trends, and more.
+Overall, this project serves as a valuable tool for real estate professionals, analysts, and researchers interested in understanding market dynamics and making informed decisions in the Dubai real estate sector. With its user-friendly interface and robust functionality, it contributes to enhancing transparency, efficiency, and data-driven decision-making in the real estate industry.
 
-Overall, this project serves as a valuable tool for real estate professionals, analysts, and researchers interested in understanding market dynamics and making informed decisions in the Dubai real estate sector. With its user-friendly interface and robust functionality, it contributes to enhancing transparency, efficiency, and data-driven decision-making in the real estate industry
+For any further questions or assistance, please contact `Mayada Yousuf` at mayadayousuf96@gmail.com.
